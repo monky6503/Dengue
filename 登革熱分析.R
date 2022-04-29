@@ -6,7 +6,7 @@ library(RColorBrewer)
 library(ggrepel)
 library(showtext)
 library(maptools)
-library(mapproj)
+library(mapproj
 library(knitr)
 library(Rmisc)
 library(lmtest)
